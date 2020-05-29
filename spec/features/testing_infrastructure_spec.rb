@@ -1,6 +1,5 @@
 require 'sinatra'
 
-
 feature "Testing infrastructure working!" do
   scenario "display 'Testing infrastructure working!' " do
   visit '/'
